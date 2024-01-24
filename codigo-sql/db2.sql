@@ -1,0 +1,12 @@
+CREATE TABLE 'corrected_database_2' (c1 INTEGER,c2 TEXT);
+INSERT INTO 'corrected_database_2' (c1, c2) VALUES ('1', 'Fiat');
+INSERT INTO 'corrected_database_2' (c1, c2) VALUES ('2', 'Volkswagen');
+INSERT INTO 'corrected_database_2' (c1, c2) VALUES ('3', 'Kia');
+INSERT INTO 'corrected_database_2' (c1, c2) VALUES ('4', 'Peugeot ');
+INSERT INTO 'corrected_database_2' (c1, c2) VALUES ('5', 'Toyota');
+INSERT INTO 'corrected_database_2' (c1, c2) VALUES ('6', 'Nissan');
+INSERT INTO 'corrected_database_2' (c1, c2) VALUES ('7', 'Mitsubishi');
+INSERT INTO 'corrected_database_2' (c1, c2) VALUES ('8', 'Subaru');
+INSERT INTO 'corrected_database_2' (c1, c2) VALUES ('9', 'Chevrolet ');
+INSERT INTO 'corrected_database_2' (c1, c2) VALUES ('10', 'JaC Motors');
+INSERT INTO 'corrected_database_2' (c1, c2) VALUES ('11', 'Renault');
